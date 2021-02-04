@@ -43,7 +43,7 @@ gcloud compute instances create "mhn-admin" \
     --boot-disk-type "pd-standard" \
     --boot-disk-device-name "mhn-admin"
 
-<img src="mhn-admin.gif">
+<img src="Unit6.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
@@ -62,7 +62,7 @@ gcloud compute instances create "mhn-admin" \
 
 **Summary:** What does this honeypot simulate and do for a security researcher?
 
-<img src="x-honeypot.gif">
+<img src="Unit6.gif">
 
 ### Malware Capture and Identification (Optional)
 
